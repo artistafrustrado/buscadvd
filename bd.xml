@@ -1,0 +1,1411 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+#########################################################################################
+###                 Sitema de Busca em DVD - Versão alfa 0.2.1                        ###  
+#########################################################################################
+###                                                                                   ### 
+###                Equipe de Programação - SEED/DITEC/MULTIMEIOS.                     ###
+###                                                                                   ###
+#########################################################################################
+###                                                                                   ### 
+###                      Carlos Henrique Tonin Albinati                               ###
+###                                                                                   ###
+###                          Jorge Fernandes Junior                                   ###        
+###                                                                                   ###  
+#########################################################################################
+                                                                                       -->
+<acervo>
+ <cadastro>
+  <disciplina>BIOLOGIA</disciplina>
+  <autor>ALFREDO FRANCISCO PLIESSNIG </autor>
+  <titulo>Extin&#231;&#227;o e Evolu&#231;&#227;o</titulo>
+  <chaves>origem; mudan&#231;as; destino.</chaves>
+  <codigo>1-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UEPG</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>BIOLOGIA</disciplina>
+  <autor>ALFREDO FRANCISCO PLIESSNIG </autor>
+  <titulo>O USO DE METODOLOGIAS ALTERNATIVAS COMO FORMA DE SUPERA&#199;&#195;O DA ABORDAGEM PEDAG&#211;GICA TRADICIONAL NA DISCIPLINA DE BIOLOGIA</titulo>
+  <chaves>Ensino de Biologia; Forma&#231;&#227;o Continuada; Metodologias alternativas.</chaves>
+  <codigo>1-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UEPG</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>BIOLOGIA</disciplina>
+  <autor>ANA PAULA LOPES</autor>
+  <titulo>Neoplasia</titulo>
+  <chaves>Ensino de Biologia; Neoplasia; C&#226;ncer.</chaves>
+  <codigo>538-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UEM</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>BIOLOGIA</disciplina>
+  <autor>ANA PAULA LOPES</autor>
+  <titulo>A Biologia nas Feiras do Conhecimento enquanto insturmento para abordagem de conte&#250;dos, aplica&#231;&#227;o de metodologias e socializa&#231;&#227;o de conhecimentos com &#234;nfase em neoplasias</titulo>
+  <chaves>Ensino de Biologia; Feira do Conhecimento; Neoplasia.</chaves>
+  <codigo>538-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UEM</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>BIOLOGIA</disciplina>
+  <autor>CARLOS FRITSGERALD KONDLATSCH </autor>
+  <titulo>O Ensino de Biologia por meio de diferentes estrat&#233;gias em distintos ambientes de aprendizagem</titulo>
+  <chaves>Ensino de ci&#234;ncia; Pr&#225;ticas Pedag&#243;gicas; Tecnologias Educacionais</chaves>
+  <codigo>399-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UTFPR</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>BIOLOGIA</disciplina>
+  <autor>CARLOS FRITSGERALD KONDLATSCH </autor>
+  <titulo>A PR&#193;TICA DOCENTE NO ENSINO DE BIOLOGIA POR MEIO DE DIFERENTES ESTRAT&#201;GIAS EM DISTINTOS AMBIENTES DE APRENDIZAGEM - UMA PROPOSTA:POSSIBILIDADES E LIMITES</titulo>
+  <chaves>Ensino de Ci&#234;ncia; Pr&#225;ticas Pedag&#243;gicas; Tecnologias Educacionais</chaves>
+  <codigo>399-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UTFPR</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>BIOLOGIA</disciplina>
+  <autor>CLAUDIA LAGO </autor>
+  <titulo>A DIMENS&#195;O AMBIENTAL DA EDUCA&#199;&#195;O ESCOLAR</titulo>
+  <chaves>pedagogia ambiental; biologia</chaves>
+  <codigo>569-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UFPR</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>BIOLOGIA</disciplina>
+  <autor>CLAUDIA LAGO </autor>
+  <titulo>ENSINO M&#201;DIO.</titulo>
+  <chaves>pedagogia ambiental; biologia</chaves>
+  <codigo>569-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UFPR</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>BIOLOGIA</disciplina>
+  <autor>DEISE DO ROCIO XAVIER TABORDA REICHMANN </autor>
+  <titulo>Manipula&#231;&#227;o gen&#233;tica</titulo>
+  <chaves>Material did&#225;tico; filme; ensino-aprendizagem</chaves>
+  <codigo>1083-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UNICENTRO</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>BIOLOGIA</disciplina>
+  <autor>DEISE DO ROCIO XAVIER TABORDA REICHMANN </autor>
+  <titulo>Imagens: Contribui&#231;&#227;o para o ensino-aprendizagem em Biologia</titulo>
+  <chaves>Filmes. Ensino-aprendizagem. Biologia</chaves>
+  <codigo>1083-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UNICENTRO</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>CI&#202;NCIAS</disciplina>
+  <autor>AGNES SILVIA ZECKEL FARIA </autor>
+  <titulo>A Funcionalidade das Perguntas na Elabora&#231;&#227;o do conhecimento nas aulas de Ci&#234;ncias</titulo>
+  <chaves>Discurso reflexivo. Aprendizagem significativa. Forma&#231;&#227;o de professores. Conhecimentos pr&#233;vios. Intera&#231;&#245;es discursivas</chaves>
+  <codigo>79-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UEL</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>CI&#202;NCIAS</disciplina>
+  <autor>AGNES SILVIA ZECKEL FARIA </autor>
+  <titulo>A FUNCIONALIDADE DAS PERGUNTAS NA ELABORA&#199;&#195;O DO CONHECIMENTO NAS AULAS DE CI&#202;NCIAS</titulo>
+  <chaves>Aprendizagem; Ci&#234;ncias; Conte&#250;dos; Dificuldades; Perguntas. </chaves>
+  <codigo>79-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UEL</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>CI&#202;NCIAS</disciplina>
+  <autor>ANA MARIA GARCEZ DA LUZ </autor>
+  <titulo>Alcoolismo: um Tema para o Ensino de Ci&#234;ncias</titulo>
+  <chaves>Alcoolismo.Ensino.Aprendizagem.  abordagens Metodol&#243;gicas.</chaves>
+  <codigo>758-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UNICENTRO</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>CI&#202;NCIAS</disciplina>
+  <autor>ANA MARIA GARCEZ DA LUZ </autor>
+  <titulo>ALCOOLISMO: UM TEMA PARA O ENSINO DE CI&#202;NCIAS</titulo>
+  <chaves>Alcoolismo.Ensino de Ci&#234;ncias.A&#231;&#245;es pedag&#243;gicas.Interdisciplinaridade.</chaves>
+  <codigo>758-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UNICENTRO</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>CI&#202;NCIAS</disciplina>
+  <autor>ANA PAULA MARTINS JOVIANO GOMES</autor>
+  <titulo>Sexualidade saud&#225;vel se exerce com responsabilidade.</titulo>
+  <chaves>sexualidade; influencia da m&#237;dia; OAC</chaves>
+  <codigo>445-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UEPG</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>CI&#202;NCIAS</disciplina>
+  <autor>ANA PAULA MARTINS JOVIANO GOMES</autor>
+  <titulo>Manifesta&#231;&#245;es da sexualidade no comportamento dos adolescentes e a influ&#234;ncia da m&#237;dia</titulo>
+  <chaves>Sexualidade; Inicia&#231;&#227;o sexual precoce; m&#237;dia.</chaves>
+  <codigo>445-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UEPG</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>CI&#202;NCIAS</disciplina>
+  <autor>ANDREIA BANDEIRA </autor>
+  <titulo>Mat&#233;ria e Energia: Conte&#250;dos Abstratos e N&#227;o Correlacionados?</titulo>
+  <chaves>Energia; Mat&#233;ria; Abordagem Integradora; Aprendizagem Significativa</chaves>
+  <codigo>171-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UNICENTRO</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>CI&#202;NCIAS</disciplina>
+  <autor>ANDREIA BANDEIRA </autor>
+  <titulo>ABORDAGEM INTEGRADORA DOS CONTE&#218;DOS MAT&#201;RIA E ENERGIA NA 8a S&#201;RIE EM ACORDO COM AS DIRETRIZES CURRICULARES DE CI&#202;NCIAS</titulo>
+  <chaves>Energia; Mat&#233;ria; Abordagem Integradora; Aprendizagem Significativa</chaves>
+  <codigo>171-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UNICENTRO</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>CI&#202;NCIAS</disciplina>
+  <autor>ANGELA MARCIA MESSIAS </autor>
+  <titulo>Mudan&#231;a na pr&#225;tica de ensino-aprendizagem.</titulo>
+  <chaves>ambiente; pr&#225;tica pedag&#243;gica; qualidade de vida</chaves>
+  <codigo>628-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UEL</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>CI&#202;NCIAS</disciplina>
+  <autor>ANGELA MARCIA MESSIAS </autor>
+  <titulo>Projeto de Investiga&#231;&#227;o de campo atrav&#233;s da Metodologia da Problematiza&#231;&#227;o- uma alternativa Metodol&#243;gica para o Ensino de Ci&#234;ncias na Tem&#225;tica Ambiental</titulo>
+  <chaves>Metodologia da problematiza&#231;&#227;o; Educa&#231;&#227;o ambiental; Pr&#225;tica pedag&#243;gica.</chaves>
+  <codigo>628-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UEL</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>DISCIPLINAS T&#201;CNICAS</disciplina>
+  <autor>CARLOS EDUARDO KAPP</autor>
+  <titulo>PRODU&#199;&#195;O DE SILAGEM</titulo>
+  <chaves>AGROPECU&#193;RIO, silagem</chaves>
+  <codigo>441-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UEPG</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>DISCIPLINAS T&#201;CNICAS</disciplina>
+  <autor>CARLOS EDUARDO KAPP</autor>
+  <titulo>METODOLOGIA DE PROJETOS E O ENSINO AGROPECU&#193;RIO</titulo>
+  <chaves>educa&#231;&#227;o profissional. col&#233;gios agr&#237;colas. disciplinas t&#233;cnicas.</chaves>
+  <codigo>441-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UEPG</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>DISCIPLINAS T&#201;CNICAS</disciplina>
+  <autor>CLARICE NEPOMUCENO CLAZER </autor>
+  <titulo>Skate Marcador</titulo>
+  <chaves>SKATE, repouso, movimento, referencial</chaves>
+  <codigo>888-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UNIOESTE</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>DISCIPLINAS T&#201;CNICAS</disciplina>
+  <autor>CLARICE NEPOMUCENO CLAZER </autor>
+  <titulo>Plano Inclinado e o Skate Marcador</titulo>
+  <chaves>tempo, espa&#231;o, velocidade, acelera&#231;&#227;o, for&#231;as.</chaves>
+  <codigo>888-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UNIOESTE</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>DISCIPLINAS T&#201;CNICAS</disciplina>
+  <autor>ISABEL SOFIA IURK </autor>
+  <titulo>Trabalho - Os Direitos dos Cidad&#227;os</titulo>
+  <chaves>trabalhadores. cidad&#227;os. luta</chaves>
+  <codigo>767-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UNICENTRO</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>DISCIPLINAS T&#201;CNICAS</disciplina>
+  <autor>ISABEL SOFIA IURK </autor>
+  <titulo> Disciplina do Direito como Componente Curricular do Curso T&#233;cnico em Adminstra&#231;&#227;o</titulo>
+  <chaves> Disciplina do Direito como Componente Curricular do Curso T&#233;cnico em Adminstra&#231;&#227;o</chaves>
+  <codigo>767-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UNICENTRO</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>DISCIPLINAS T&#201;CNICAS</disciplina>
+  <autor>JOMAR BERTON </autor>
+  <titulo>Direitos Humanos no Brasil Contemporaneo</titulo>
+  <chaves>Direios Humanos;garantias constitucionais; Constitui&#231;&#227;o Brasileira</chaves>
+  <codigo>583-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UEL</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>DISCIPLINAS T&#201;CNICAS</disciplina>
+  <autor>JOMAR BERTON </autor>
+  <titulo>Direitos Humanos no Brasil Contemporaneo</titulo>
+  <chaves>Direios Humanos;garantias constitucionais; Constitui&#231;&#227;o Brasileira</chaves>
+  <codigo>583-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UEL</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>DISCIPLINAS T&#201;CNICAS</disciplina>
+  <autor>JOSELI MARIA BORATO KLOSTER </autor>
+  <titulo>A Forma&#231;&#227;o Profissional em N&#237;vel M&#233;dio: Ressignificando Pr&#225;ticas Pedag&#243;gicas - Curso T&#233;cnico em Secretariado Integrado</titulo>
+  <chaves>Ensino M&#233;dio Integrado. Forma&#231;&#227;o humana. Ressignifica&#231;&#227;o de pr&#225;ticas pedag&#243;gicas.</chaves>
+  <codigo>468-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UEPG</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>DISCIPLINAS T&#201;CNICAS</disciplina>
+  <autor>JOSELI MARIA BORATO KLOSTER </autor>
+  <titulo>A forma&#231;&#227;o profissional em n&#237;vel m&#233;dio no Curso T&#233;cnico em Secretariado Integrado - Ressignificando Pr&#225;ticas Pedag&#243;gicas </titulo>
+  <chaves>Ensino M&#233;dio Integrado. Forma&#231;&#227;o humana. Ressignifica&#231;&#227;o de pr&#225;ticas pedag&#243;gicas.</chaves>
+  <codigo>468-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UEPG</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>EDUCA&#199;&#195;O ART&#205;STICA</disciplina>
+  <autor>MARA LUCIA FERREIRA DO AMARAL </autor>
+  <titulo>PARA AL&#201;M DA FORMA</titulo>
+  <chaves>Leitura; imagem; semi&#243;tica</chaves>
+  <codigo>1108-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UEL</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>EDUCA&#199;&#195;O ART&#205;STICA</disciplina>
+  <autor>MARA LUCIA FERREIRA DO AMARAL </autor>
+  <titulo>Do Verbo Fez-se o Homem, do Homem a Ideologia</titulo>
+  <chaves>Semi&#243;tica, Sentidos, Leitor, Ideologia</chaves>
+  <codigo>1108-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UEL</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>EDUCA&#199;&#195;O ART&#205;STICA</disciplina>
+  <autor>WALMIR MARCELINO TEIXEIRA </autor>
+  <titulo>Musicaliza&#231;&#227;o: canto e flauta doce</titulo>
+  <chaves>Educa&#231;&#227;o musical, m&#250;sica, inclus&#227;o, arte</chaves>
+  <codigo>521-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UFPR</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>EDUCA&#199;&#195;O ART&#205;STICA</disciplina>
+  <autor>WALMIR MARCELINO TEIXEIRA </autor>
+  <titulo>PERSPECTIVAS INCLUSIVAS DA EDUCA&#199;&#195;O MUSICAL NA REDE P&#218;BLICA DEENSINO: REPRESENTA&#199;&#213;ES DE PROFESSORES PDE</titulo>
+  <chaves>EDUCA&#199;&#195;O MUSICAL, ARTE, INCLUS&#195;O, M&#218;SICA</chaves>
+  <codigo>521-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UFPR</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>EDUCA&#199;&#195;O ESPECIAL</disciplina>
+  <autor>ANA LUCIA MAZETO </autor>
+  <titulo>REALIDADES X PERSPECTIVAS</titulo>
+  <chaves>Inclus&#227;o; respeito; dignidade; responsabilidade social.</chaves>
+  <codigo>560-4</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UEL</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>EDUCA&#199;&#195;O ESPECIAL</disciplina>
+  <autor>ANA LUCIA MAZETO </autor>
+  <titulo>REALIDADES X PERSPECTIVAS</titulo>
+  <chaves>Inclus&#227;o; respeito; dignidade; responsabilidade social.</chaves>
+  <codigo>560-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UEL</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>EDUCA&#199;&#195;O ESPECIAL</disciplina>
+  <autor>ANA ZAPOROSZENKO </autor>
+  <titulo>Comunica&#231;&#227;o Alternativa:recursos did&#225;ticos e de express&#227;o</titulo>
+  <chaves>comunica&#231;&#227;o, comunica&#231;&#227;o alternativa; paralisia cerebral; conhecimento. </chaves>
+  <codigo>124-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UEM</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>EDUCA&#199;&#195;O ESPECIAL</disciplina>
+  <autor>ANA ZAPOROSZENKO </autor>
+  <titulo>Comunica&#231;&#227;o Alternativa:recursos did&#225;ticos e de express&#227;o</titulo>
+  <chaves>Comunica&#231;&#227;o Alternativa. Paralisia cerebral. Conhecimento</chaves>
+  <codigo>124-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UEM</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>EDUCA&#199;&#195;O ESPECIAL</disciplina>
+  <autor>ANGELA MARI LABATUT </autor>
+  <titulo>O cinema como recurso para a forma&#231;&#227;o de professores: a educa&#231;&#227;o do homem com e sem defici&#234;ncia, num</titulo>
+  <chaves>Educa&#231;&#227;o especial, linguagem f&#237;lmica, Teoria Hist&#243;rico-cultural</chaves>
+  <codigo>309-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UEM</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>EDUCA&#199;&#195;O ESPECIAL</disciplina>
+  <autor>ANGELA MARI LABATUT </autor>
+  <titulo>O CINEMA COMO RECURSO PARA A FORMA&#199;&#195;O DE PROFESSORES: A EDUCA&#199;&#195;O DO HOMEM COM E SEM DEFICI&#202;NCIA NUMA PERSPECTIVA VIGOTSKIANA</titulo>
+  <chaves>An&#225;lise f&#237;lmica. Defici&#234;ncia. Psicologia  Hist&#243;rico-Cultural</chaves>
+  <codigo>309-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UEM</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>EDUCA&#199;&#195;O ESPECIAL</disciplina>
+  <autor>ANGELA REGALIO FILIPAKI </autor>
+  <titulo>A melhoria da qualidade de vida para a cidadania do educando com paralisia cerebral e sua fam&#237;lia atrav&#233;s da intera&#231;&#227;o escolar.</titulo>
+  <chaves>qualidade de vida-educando- paralisia cerebral-fam&#237;lia</chaves>
+  <codigo>766-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UNICENTRO</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>EDUCA&#199;&#195;O ESPECIAL</disciplina>
+  <autor>ANGELA REGALIO FILIPAKI </autor>
+  <titulo>A MELHORIA DA QUALIDADE DE VIDA PARA A CIDADANIA</titulo>
+  <chaves>Paralisia Cerebral, Qualidade de Vida, Educando Paralisado Cerebral, Fam&#237;lia, Escola</chaves>
+  <codigo>766-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UNICENTRO</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>EDUCA&#199;&#195;O ESPECIAL</disciplina>
+  <autor>APARECIDA FATIMA DE OLIVEIRA </autor>
+  <titulo>O EMPREGO DO ALFABETO DATILOL&#211;GICO (LIBRAS) NA ALFABET</titulo>
+  <chaves>alfabeto convencional.alfabeto digital.memoriza&#231;&#227;o.s&#237;mbolos/sinais.alfabetiza&#231;&#227;o</chaves>
+  <codigo>486-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UNIOESTE</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>EDUCA&#199;&#195;O ESPECIAL</disciplina>
+  <autor>APARECIDA FATIMA DE OLIVEIRA </autor>
+  <titulo>O EMPREGO DO ALFABETO MANUAL (LIBRAS) NA ALFABETIZA&#199;&#195;O DOS PORTADORES DE NECESSIDADES EDUCATIVAS ESPECIAIS (DI)</titulo>
+  <chaves>alfabetiza&#231;&#227;o. recurso. memoriza&#231;&#227;o. alfabeto manual. alfabeto convencional.</chaves>
+  <codigo>486-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UNIOESTE</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>EDUCA&#199;&#195;O F&#205;SICA</disciplina>
+  <autor>ADILSON DA COSTA LOPES</autor>
+  <titulo>Abordagens Metodol&#243;gicas em Educa&#231;&#227;o F&#237;sica: conhecendo e entendendo.</titulo>
+  <chaves>Aulas Abertas a Experi&#234;ncia, Cr&#237;tico-Emancipat&#243;ria, Cr&#237;tico-Superadora, Construtivista e Desenvolvimentista.</chaves>
+  <codigo>1131-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UFPR</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>EDUCA&#199;&#195;O F&#205;SICA</disciplina>
+  <autor>ADILSON DA COSTA LOPES</autor>
+  <titulo>EDUCA&#199;&#195;O F&#205;SICA ESCOLAR: PASSANDO PELAS PEDAGOGIAS TRADICIONAL, NOVA E BUSCANDO A CONTEXTUALIZA&#199;&#195;O</titulo>
+  <chaves>Pedagogia Tracional. Pedagogia Nova. Educa&#231;&#227;o. Educa&#231;&#227;o F&#237;sica. Corpo.</chaves>
+  <codigo>1131-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UFPR</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>EDUCA&#199;&#195;O F&#205;SICA</disciplina>
+  <autor>ADRIANA FURLANETTO </autor>
+  <titulo>Gin&#225;stica de Condicionamento; de Academia</titulo>
+  <chaves>Educa&#231;&#227;o F&#237;sica, capacidades f&#237;sicas, condicionamento,</chaves>
+  <codigo>878-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UNIOESTE</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>EDUCA&#199;&#195;O F&#205;SICA</disciplina>
+  <autor>ADRIANA FURLANETTO </autor>
+  <titulo>A contribui&#231;&#227;o da Educa&#231;&#227;o F&#237;sica, enquanto &#225;rea do conhecimento, para a forma&#231;&#227;o do aluno concluinte da Educa&#231;&#227;o B&#225;sica</titulo>
+  <chaves>Educa&#231;&#227;o F&#237;sica Escolar. &#193;rea do Conhecimento. Pr&#225;ticas Corporais</chaves>
+  <codigo>878-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UNIOESTE</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>EDUCA&#199;&#195;O F&#205;SICA</disciplina>
+  <autor>ADRIANA LENA SASSI </autor>
+  <titulo>Jogos, brinquedos e brincadeiras.</titulo>
+  <chaves>COOPERA&#199;&#195;O, INTERA&#199;&#195;O, SOCIABILIZA&#199;&#195;O, INCLUS&#195;O,</chaves>
+  <codigo>885-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UNIOESTE</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>EDUCA&#199;&#195;O F&#205;SICA</disciplina>
+  <autor>ADRIANA LENA SASSI </autor>
+  <titulo>jogos cooperativos e a inclus&#227;o social</titulo>
+  <chaves>SUPERA&#199;&#195;O, TRANSFORMA&#199;&#195;O</chaves>
+  <codigo>885-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UNIOESTE</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>EDUCA&#199;&#195;O F&#205;SICA</disciplina>
+  <autor>AIRTON NERY DE OLIVEIRA E SILVA </autor>
+  <titulo>O significado da obesidade na qualidade de vida do aluno obeso: Vivenciando preconceitos</titulo>
+  <chaves>obesidade;preconceito;qualidade de vida</chaves>
+  <codigo>882-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UNIOESTE</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>EDUCA&#199;&#195;O F&#205;SICA</disciplina>
+  <autor>AIRTON NERY DE OLIVEIRA E SILVA </autor>
+  <titulo>O SIGNIFICADO DA OBESIDADE NA QUALIDADE DE VIDA DO ALUNO OBESO: VIVENCIANDO PRECONCEITOS</titulo>
+  <chaves>Obesidade. Preconceito. Qualidade de vida.</chaves>
+  <codigo>882-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UNIOESTE</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>EDUCA&#199;&#195;O F&#205;SICA</disciplina>
+  <autor>ANDRE NOGAROTO</autor>
+  <titulo>Gin&#225;stica - Avalia&#231;&#227;o e Conceitua&#231;&#227;o dos Componentes da Aptid&#227;o F&#237;sica Relacionados &#224; Sa&#250;de</titulo>
+  <chaves>Gin&#225;stica; Sa&#250;de; Aptid&#227;o F&#237;sica;</chaves>
+  <codigo>994-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UEL</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>EDUCA&#199;&#195;O F&#205;SICA</disciplina>
+  <autor>ANDRE NOGAROTO</autor>
+  <titulo>Perspectiva Pedag&#243;gica da Sa&#250;de como Elemento Articulador dos Conte&#250;dos Estruturantes do Ensino M&#233;dio</titulo>
+  <chaves>Educa&#231;&#227;o F&#237;sica; Sa&#250;de; Ensino M&#233;dio;</chaves>
+  <codigo>994-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UEL</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>FILOSOFIA</disciplina>
+  <autor>CLEIDES TEREZINHA FRIES </autor>
+  <titulo>O exerc&#237;cio da cidadania</titulo>
+  <chaves>Cidadania;Legisla&#231;&#227;o;Direitos Humanos; Ditadura;Movimento estudantil.</chaves>
+  <codigo>170-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UNICENTRO</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>FILOSOFIA</disciplina>
+  <autor>CLEIDES TEREZINHA FRIES </autor>
+  <titulo>O ENSINO DE FILOSOFIA, O TRABALHO COLETIVO NA ESCOLA E A FORMA&#199;&#195;O DO CIDAD&#195;O</titulo>
+  <chaves>Filosofia;Cidadania;&#201;tica;Pol&#237;tica;Democracia</chaves>
+  <codigo>170-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UNICENTRO</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>FILOSOFIA</disciplina>
+  <autor>DJACI PEREIRA LEAL </autor>
+  <titulo>A FILOSOFIA NO ENSINO M&#201;DIO: ARIST&#211;TELES UMA REFER&#202;NCIA</titulo>
+  <chaves>&#201;tica, Arist&#243;teles, Virtude</chaves>
+  <codigo>950-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UEM</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>FILOSOFIA</disciplina>
+  <autor>DJACI PEREIRA LEAL </autor>
+  <titulo>LIVRO DID&#193;TICO: SUA IMPORT&#194;NCIA E NECESSIDADE AO PROCESSO ENSINO-APRENDIZAGEM</titulo>
+  <chaves>Livro Did&#225;tico, Filosofia, LDP de Filosofia.</chaves>
+  <codigo>950-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UEM</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>FILOSOFIA</disciplina>
+  <autor>RUI VALESE</autor>
+  <titulo>LIBERDADE, AUTONOMIA E RESPONSABILIDADE</titulo>
+  <chaves>LIBERDADE, AUTONOMIA E RESPONSABILIDADE</chaves>
+  <codigo>568-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UTFPR</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>FILOSOFIA</disciplina>
+  <autor>RUI VALESE</autor>
+  <titulo>PARA ONDE O ENSINO DA FILOSOFIA &#145;DEVE CONDUZIR&#146;?</titulo>
+  <chaves>Ensino de Filosofia, Did&#225;tica do Ensino de Filosofia, Leitura filos&#243;fica.</chaves>
+  <codigo>568-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UTFPR</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>F&#205;SICA</disciplina>
+  <autor>ANA MARIA FELIPE </autor>
+  <titulo>Circuito El&#233;trico Residencial</titulo>
+  <chaves>circuito el&#233;trico; eletricidade no cotidiano; energia el&#233;trica; instala&#231;&#227;o residencial</chaves>
+  <codigo>85-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UEL</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>F&#205;SICA</disciplina>
+  <autor>ANA MARIA FELIPE </autor>
+  <titulo>PR&#193;TICA PEDAG&#211;GICA: EMANCIPA&#199;&#195;O SIM, ADESTRAMENTO N&#195;O</titulo>
+  <chaves>supera&#231;&#227;o dos exerc&#237;cios repetitivos; eletricidade no cotidiano; avalia&#231;&#227;o: aprendizado ou nota.</chaves>
+  <codigo>85-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UEL</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>F&#205;SICA</disciplina>
+  <autor>CARLOS NOEL MAZIA </autor>
+  <titulo>subsidios para um estudo numa perspectiva hist&#243;rica e experimental</titulo>
+  <chaves>natureza;homem;conceito;for&#231;a;movimento</chaves>
+  <codigo>299-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UEM</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>F&#205;SICA</disciplina>
+  <autor>CARLOS NOEL MAZIA </autor>
+  <titulo>Algumas reflex&#245;es sobre o ensino de F&#237;sica e sobre algumas metodologias para a primeira s&#233;rie do ensino m&#233;dio</titulo>
+  <chaves>reflex&#245;es;atividades experimentais;metodologia;hist&#243;ria da ci&#234;ncia.</chaves>
+  <codigo>299-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UEM</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>F&#205;SICA</disciplina>
+  <autor>EDSON APARECIDO CAVICCHIOLI</autor>
+  <titulo>&#201; O CARNAVAL SE FOI</titulo>
+  <chaves>CARNAVAL</chaves>
+  <codigo>536-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UFPR</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>F&#205;SICA</disciplina>
+  <autor>EDSON APARECIDO CAVICCHIOLI</autor>
+  <titulo>COMO ENSINAR F&#205;SICA PARA OS ALUNOS DE DO PRIMEIRO ANO DO </titulo>
+  <chaves>F&#237;sica; Ensino m&#233;dio ; Cinco Es ; livro did&#225;tico</chaves>
+  <codigo>536-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UFPR</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>F&#205;SICA</disciplina>
+  <autor>MARCOS GERMANO DEGENHARDT </autor>
+  <titulo>Movimento de Flu&#237;dos</titulo>
+  <chaves>Movimentos de Flu&#237;dos, Equa&#231;&#227;o da Continuidade, Simulador</chaves>
+  <codigo>397-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UTFPR</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>F&#205;SICA</disciplina>
+  <autor>MARCOS GERMANO DEGENHARDT </autor>
+  <titulo>Proposta de modelo para o desenvolvimento de Simuladores para a F&#237;sica.</titulo>
+  <chaves>Simuladores; Proposta de Modelo; Ensino de F&#237;sica</chaves>
+  <codigo>397-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UTFPR</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>F&#205;SICA</disciplina>
+  <autor>MARIA CRISTINA DA FONSECA </autor>
+  <titulo>Mapas conceituais e diagramas ADI como instrumentos de apoio ao ensino dos conceitos de calor e te</titulo>
+  <chaves>Ensino M&#233;dio; Termologia; Aprendizagem Significativa; Mapas Conceituais; Diagrama ADI</chaves>
+  <codigo>742-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UNICENTRO</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>F&#205;SICA</disciplina>
+  <autor>MARIA CRISTINA DA FONSECA </autor>
+  <titulo>MAPAS CONCEITUAIS E DIAGRAMA ADI COMO INSTRUMENTOS DE APOIO AO ENSINO DOS CONCEITOS DE CALOR E TEMPERATURA COMTEMPLANDO UMA VIS&#195;O INTEGRADORA</titulo>
+  <chaves>Ensino M&#233;dio. Termologia. Aprendizagem Significativa. Mapas Conceituais. Diagrama ADI.</chaves>
+  <codigo>742-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UNICENTRO</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>GEOGRAFIA</disciplina>
+  <autor>ADEMILSON FRANCISCO DOS SANTOS </autor>
+  <titulo>RECURSOS MINERAIS DO PARAN&#193;: Tipologia, extrativismo, e import&#226;ncia econ&#244;mica</titulo>
+  <chaves>Ensino em Geografia, recursos minerais, integra&#231;&#227;o de conte&#250;dos, desenvolvimento da regi&#227;o</chaves>
+  <codigo>946-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UEM</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>GEOGRAFIA</disciplina>
+  <autor>ADEMILSON FRANCISCO DOS SANTOS </autor>
+  <titulo>Recursos Minerais do Paran&#225;: Litologias associadas &#224; distribui&#231;&#227;o Geogr&#225;fica e Import&#226;ncia econ&#244;mica</titulo>
+  <chaves>Ensino em Geografia, recursos minerais, integra&#231;&#227;o de conte&#250;dos, desenvolvimento da regi&#227;o</chaves>
+  <codigo>946-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UEM</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>GEOGRAFIA</disciplina>
+  <autor>ADILSON MARTINEZ </autor>
+  <titulo>O Espa&#231;o Urbano e o Trabalho de Campo</titulo>
+  <chaves>urbano; metodologia; senso comum; conhecimento cient&#237;fico</chaves>
+  <codigo>435-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UNIOESTE</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>GEOGRAFIA</disciplina>
+  <autor>ADILSON MARTINEZ </autor>
+  <titulo>O TRABALHO DE CAMPO COMO METODOLOGIA DE ENSINO DE GEOGRAFIA O ESTUDO DE CASO DA VILA MALVINA &#150; GUA&#205;RA/PR</titulo>
+  <chaves>ensino-aprendizagem; pr&#225;tica pedag&#243;gica; teoria; pr&#225;tica </chaves>
+  <codigo>435-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UNIOESTE</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>GEOGRAFIA</disciplina>
+  <autor>ADRIANA MARIA PIOVESAN RUIZ DIAZ </autor>
+  <titulo>PR&#193;TICAS AMBIENTAIS</titulo>
+  <chaves>MATA CILIAR, EDUCA&#199;&#195;O AMBIENTAL</chaves>
+  <codigo>1059-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UNIOESTE</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>GEOGRAFIA</disciplina>
+  <autor>ADRIANA MARIA PIOVESAN RUIZ DIAZ </autor>
+  <titulo>EDUCA&#199;&#195;O AMBIENTAL: PR&#193;TICAS</titulo>
+  <chaves>Meio Ambiente. Mata Ciliar. &#193;gua Pot&#225;vel. Educa&#231;&#227;o Ambiental.</chaves>
+  <codigo>1059-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UNIOESTE</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>GEOGRAFIA</disciplina>
+  <autor>ANA ELIZABETE MAZON DE SOUZA TESSEROLLI </autor>
+  <titulo>Atlas Geografico de Piraquara</titulo>
+  <chaves>geografia, atlas</chaves>
+  <codigo>934-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UFPR</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>GEOGRAFIA</disciplina>
+  <autor>ANA ELIZABETE MAZON DE SOUZA TESSEROLLI </autor>
+  <titulo>DIAGN&#211;STICO SOCIOAMBIENTAL E DESENVOLVIMENTO DO TURISMO NO MUNIC&#205;PIO DE PIRAQUARA &#150; APLICA&#199;&#195;O DO PROJETO</titulo>
+  <chaves>Meio Ambiente. Turismo. Munic&#237;pio. Forma&#231;&#227;o Educacional</chaves>
+  <codigo>934-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UFPR</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>GEOGRAFIA</disciplina>
+  <autor>ANA MARIA FERREIRA </autor>
+  <titulo>Mente quem diz... dessa &#225;gua eu n&#227;o bebo!</titulo>
+  <chaves>Import&#226;ncia da &#225;gua; uso racional; degrada&#231;&#227;o/desperdicio.</chaves>
+  <codigo>1034-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UEM</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>GEOGRAFIA</disciplina>
+  <autor>ANA MARIA FERREIRA </autor>
+  <titulo>A Educa&#231;&#227;o Ambiental e a problem&#225;tica do uso da &#225;gua: Conhe&#231;er para Cuidar.  </titulo>
+  <chaves>Educa&#231;&#227;o Ambiental. Uso Racional da &#193;gua. Preserva&#231;&#227;o. </chaves>
+  <codigo>1034-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UEM</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>GEST&#195;O ESCOLAR</disciplina>
+  <autor>ALENCAR LUIZ ZANON </autor>
+  <titulo>Reflex&#245;es acerca do poder disciplinar em Foucault e a educa&#231;&#227;o escolar.</titulo>
+  <chaves> poder disciplinar; (in)disciplina escolar; estudo foucaultiano.</chaves>
+  <codigo>916-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UFPR</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>GEST&#195;O ESCOLAR</disciplina>
+  <autor>ALENCAR LUIZ ZANON </autor>
+  <titulo>&#201; EXPRESSAMENTE PROIBIDO USAR BON&#201; NA ESCOLA.</titulo>
+  <chaves>(In)disciplina na escola. Rela&#231;&#245;es de poder na escola. Normas escolares.</chaves>
+  <codigo>916-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UFPR</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>GEST&#195;O ESCOLAR</disciplina>
+  <autor>ANGELA PASTRO MATER </autor>
+  <titulo>Gest&#227;o Democr&#225;tica na Escola P&#250;blica-Ensino Fundamental na Modalidade EJA.</titulo>
+  <chaves>Gest&#227;o Democr&#225;tica; EJA e PPP.</chaves>
+  <codigo>861-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UNIOESTE</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>GEST&#195;O ESCOLAR</disciplina>
+  <autor>ANGELA PASTRO MATER </autor>
+  <titulo>Gest&#227;o Democr&#225;tica na Escola P&#250;blica: Ensino Fundamental da Educa&#231;&#227;o de Jovens e Adultos.</titulo>
+  <chaves>Gest&#227;o Democr&#225;tica; Educa&#231;&#227;o de Jovens e Adultos; Projeto Pol&#237;tico Pedag&#243;gico.</chaves>
+  <codigo>861-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UNIOESTE</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>GEST&#195;O ESCOLAR</disciplina>
+  <autor>ANTONIO MAURICIO CORREIA </autor>
+  <titulo>Inclus&#227;o digital e escola p&#250;blica: como tratar da miseria na era da informa&#231;&#227;o</titulo>
+  <chaves>tecnologia; informa&#231;&#227;o; inclus&#227;o; sociedade; igualdade</chaves>
+  <codigo>1098-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UTFPR</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>GEST&#195;O ESCOLAR</disciplina>
+  <autor>ANTONIO MAURICIO CORREIA </autor>
+  <titulo>O APORTE TECNOL&#211;GICO NA EDUCA&#199;&#195;O P&#218;BLICA DO ESTADO DO PARAN&#193;: UM HIST&#211;RICO DE A&#199;&#213;ES COM RESPONSABILIDADE</titulo>
+  <chaves>Novas tecnologias em educa&#231;&#227;o; forma&#231;&#227;o de educadores; ensino-aprendizagem; inclus&#227;o social e digital.</chaves>
+  <codigo>1098-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UTFPR</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>GEST&#195;O ESCOLAR</disciplina>
+  <autor>RIANI BORTOLOTTI FIUMARI</autor>
+  <titulo>Agressividade, Conflito e Agress&#227;o em escolas da Rede Estadual de Ensino: Estudo de Caso e Perspectiva de Interven&#231;&#227;o na Cidade de Londrina</titulo>
+  <chaves>Viol&#234;ncia, Conflito, Agrss&#227;o, Escola</chaves>
+  <codigo>644-4</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UEL</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>GEST&#195;O ESCOLAR</disciplina>
+  <autor>RIANI BORTOLOTTI FIUMARI</autor>
+  <titulo>Agressividade, Conflito e Agress&#227;o em Escolas da Rede Estadual de Ensino: Estudo de Caso e Perspectiva de Interven&#231;&#227;o na Cidade de Londrina.</titulo>
+  <chaves>viol&#234;ncia, conflitos, agress&#245;es, escola</chaves>
+  <codigo>644-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UEL</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>GEST&#195;O ESCOLAR</disciplina>
+  <autor>BENEDITO BORGES </autor>
+  <titulo>Gest&#227;o Democr&#225;tica da Escola P&#250;blica - Perguntas e Respostas </titulo>
+  <chaves>Democracia: Gest&#227;o; Escola P&#250;blica </chaves>
+  <codigo>972-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UEM</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>GEST&#195;O ESCOLAR</disciplina>
+  <autor>BENEDITO BORGES </autor>
+  <titulo>Gest&#227;o Democr&#225;tica da Escola P&#250;blica de Educa&#231;&#227;o B&#225;sica do Paran&#225;  - Contribui&#231;&#245;es</titulo>
+  <chaves>Escola p&#250;blica. Gest&#227;o democr&#225;tica. &#211;rg&#227;os colegiados.</chaves>
+  <codigo>972-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UEM</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>HIST&#211;RIA</disciplina>
+  <autor>AMILTON COSTA </autor>
+  <titulo>O Golpe Militar de 1.964</titulo>
+  <chaves>ditadura militar, repress&#227;o, movimento estudantil, Opera&#231;&#227;o Marumbi</chaves>
+  <codigo>951-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UEM</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>HIST&#211;RIA</disciplina>
+  <autor>AMILTON COSTA </autor>
+  <titulo>A Repress&#227;o no Estado do Paran&#225; Durante o Regime Militar: Movimento Estudantil e a Opera&#231;&#227;o Marumbi</titulo>
+  <chaves>A Repress&#227;o no Estado do Paran&#225; Durante o Regime Militar: Movimento Estudantil e a Opera&#231;&#227;o Marumbi</chaves>
+  <codigo>951-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UEM</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>HIST&#211;RIA</disciplina>
+  <autor>ANA LUIZA KOEHLER </autor>
+  <titulo>Fotografia e Hist&#243;ria: Educando o Olhar sobre a Cidade</titulo>
+  <chaves>Fotografia; Hist&#243;ria;Mem&#243;ria; Cidade</chaves>
+  <codigo>164-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UFPR</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>HIST&#211;RIA</disciplina>
+  <autor>ANA LUIZA KOEHLER </autor>
+  <titulo>O ensino de Hist&#243;ria e a fotografia como representa&#231;&#227;o: uma experi&#234;ncia atrav&#233;s de fontes de arquivos locais</titulo>
+  <chaves>Fotografia. Hist&#243;ria. Cidade. Imagin&#225;rio. Ensino</chaves>
+  <codigo>164-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UFPR</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>HIST&#211;RIA</disciplina>
+  <autor>ANA MARIA NUNES </autor>
+  <titulo>Figueira D&#146;Oeste: Mem&#243;ria e identidade de uma comunidade rural.</titulo>
+  <chaves>Mem&#243;ria; &#225;lbum de fam&#237;lia; identidade individual e coletiva.</chaves>
+  <codigo>952-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UEM</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>HIST&#211;RIA</disciplina>
+  <autor>ANA MARIA NUNES </autor>
+  <titulo>Figueira D&apos;Oeste: Mem&#243;ria, identidade e hist&#243;ria de uma comunidade rural.</titulo>
+  <chaves>Hist&#243;ria local; Fotografia; Mem&#243;ria coletiva.</chaves>
+  <codigo>952-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UEM</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>HIST&#211;RIA</disciplina>
+  <autor>ANSELMO PILATI</autor>
+  <titulo>O Conflito Palestino-Israelense no Oriente M&#233;dio</titulo>
+  <chaves>Conflito; Palestino; Israelense; Di&#225;spora; &#193;rabe.</chaves>
+  <codigo>710-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UNICENTRO</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>HIST&#211;RIA</disciplina>
+  <autor>ANSELMO PILATI</autor>
+  <titulo>O Conflito Palestino-Israelense e o Oriente M&#233;dio</titulo>
+  <chaves>Conflito palestino-israelense; sionismo; anti-semitismo; Palestina.</chaves>
+  <codigo>710-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UNICENTRO</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>HIST&#211;RIA</disciplina>
+  <autor>ANTONIO APARECIDO NATEL GASPARETO </autor>
+  <titulo>Urbaniza&#231;&#227;o do Paran&#225; a partir da d&#233;cada de 70</titulo>
+  <chaves>Urbaniza&#231;&#227;o; migra&#231;&#227;o; &#202;xodo Rural.</chaves>
+  <codigo>148-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UFPR</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>HIST&#211;RIA</disciplina>
+  <autor>ANTONIO APARECIDO NATEL GASPARETO </autor>
+  <titulo>O Capitalismo e a Pol&#237;tica Agr&#225;ria a partir da d&#233;cada de 60: migra&#231;&#227;o e urbaniza&#231;&#227;o paranaense.</titulo>
+  <chaves>Pol&#237;tica agr&#225;ria; &#202;xodo Rural; Migra&#231;&#227;o; Urbaniza&#231;&#227;o.</chaves>
+  <codigo>148-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UFPR</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>L&#205;NGUA ESTRANGEIRA MODERNA</disciplina>
+  <autor>ADALNICE PASSOS LIMA </autor>
+  <titulo>OAC 7776- Prescri&#231;&#227;o M&#233;dica </titulo>
+  <chaves>Prescri&#231;&#227;o m&#233;dica, Sa&#250;de, Dar e receber orienta&#231;&#227;o.</chaves>
+  <codigo>1078-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UFPR</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>L&#205;NGUA ESTRANGEIRA MODERNA</disciplina>
+  <autor>ADALNICE PASSOS LIMA </autor>
+  <titulo>DIRETRIZES CURRICULARES E PROPOSTA PEDAG&#211;GICA: Um estudo Comparativo</titulo>
+  <chaves>Diretrizes Curriculares. Proposta Pedag&#243;gica. Gest&#227;o Escolar. Planejamento Escolar. Qualidade de ensino.</chaves>
+  <codigo>1078-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UFPR</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>L&#205;NGUA ESTRANGEIRA MODERNA</disciplina>
+  <autor>ADEGILSON PARRO </autor>
+  <titulo>Adolescence: period of conflicts and discoveries</titulo>
+  <chaves>Carta Conselho; leitura e escrita; adolescentes; l&#237;ngua estrangeira.</chaves>
+  <codigo>332-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UEM</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>L&#205;NGUA ESTRANGEIRA MODERNA</disciplina>
+  <autor>ADEGILSON PARRO </autor>
+  <titulo>G&#234;nero textual Carta Conselho: uma experi&#234;ncia em sala de aula</titulo>
+  <chaves>G&#234;nero discursivo; carta conselho; l&#237;ngua estrangeira.</chaves>
+  <codigo>332-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UEM</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>L&#205;NGUA ESTRANGEIRA MODERNA</disciplina>
+  <autor>ADRIANA APARECIDA VECCHI FERRI </autor>
+  <titulo>LEITURA E ENSINO INTERDISCIPLINAR NO ENSINO M&#201;DIO: UM CAMINHO SIGNIFICATIVO E MOTIVADOR PARA A APRENDIZAGEM  DE L&#205;NGUA INGLESA</titulo>
+  <chaves>Leitura. L&#237;ngua Estrangeira. Parceria. Material Significativo.    </chaves>
+  <codigo>1118-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UNIOESTE</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>L&#205;NGUA ESTRANGEIRA MODERNA</disciplina>
+  <autor>ADRIANA APARECIDA VECCHI FERRI </autor>
+  <titulo> LEITURA E ENSINO INTERDISCIPLINAR NO ENSINO M&#201;DIO: UM CAMINHO SIGNIFICATIVO E MOTIVADOR PARA A APRENDIZAGEM  DE L&#205;NGUA INGLESA   </titulo>
+  <chaves>Leitura. L&#237;ngua Estrangeira. Parceria. Material Significativo.    </chaves>
+  <codigo>1118-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UNIOESTE</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>L&#205;NGUA ESTRANGEIRA MODERNA</disciplina>
+  <autor>ADRIANA LIBERA PARIZOTTO </autor>
+  <titulo>A fun&#231;&#227;o social e ling&#252;&#237;stica da m&#250;sica na aprendizagem da L&#237;ngua Inglesa</titulo>
+  <chaves>m&#250;sica; motiva&#231;&#227;o; leitura;reflex&#227;o; aprendizagem</chaves>
+  <codigo>757-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UNICENTRO</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>L&#205;NGUA ESTRANGEIRA MODERNA</disciplina>
+  <autor>ADRIANA LIBERA PARIZOTTO </autor>
+  <titulo>A fun&#231;&#227;o social e ling&#252;&#237;stica da m&#250;sica na aprendizagem da L&#237;ngua Inglesa</titulo>
+  <chaves>m&#250;sica; motiva&#231;&#227;o; leitura; reflex&#227;o; aprendizagem</chaves>
+  <codigo>757-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UNICENTRO</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>L&#205;NGUA ESTRANGEIRA MODERNA</disciplina>
+  <autor>ADRIANA RIBEIRO SIQUEIRA WITZEL</autor>
+  <titulo>A Internet e os novos g&#234;neros textuais</titulo>
+  <chaves>webquest;ensino;metodologia;tarefas</chaves>
+  <codigo>806-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UNIOESTE</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>L&#205;NGUA ESTRANGEIRA MODERNA</disciplina>
+  <autor>ADRIANA RIBEIRO SIQUEIRA WITZEL</autor>
+  <titulo>Planejamento Tem&#225;tico e Webquests: Uma Op&#231;&#227;o Para o Ensino de L&#237;ngua Estrangeira no Laborat&#243;rio de Inform&#225;tica.</titulo>
+  <chaves>tarefas;webquests;temas;ensino;inser&#231;&#227;o</chaves>
+  <codigo>806-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UNIOESTE</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>LINGUA PORTUGUESA</disciplina>
+  <autor>ADALBERTO JOSE PETRY</autor>
+  <titulo>DOM CASMURRO. Ecos &amp; Reflexos.</titulo>
+  <chaves>Literatura; leitura; interpreta&#231;&#227;o; conhecimentos; contextualiza&#231;&#227;o.</chaves>
+  <codigo>838-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UNIOESTE</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>LINGUA PORTUGUESA</disciplina>
+  <autor>ADALBERTO JOSE PETRY</autor>
+  <titulo>Leitura da Literatura: para uma Interefer&#234;ncia ESCOLAR</titulo>
+  <chaves>Literatura; Leitura; Interfer&#234;ncia; Profici&#234;ncia; discente. </chaves>
+  <codigo>838-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UNIOESTE</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>LINGUA PORTUGUESA</disciplina>
+  <autor>ADRIANA CRISTINA BERNARDIM</autor>
+  <titulo>Literatura; Leitura; Interfer&#234;ncia; Profici&#234;ncia; discente. </titulo>
+  <chaves>An&#225;lise, mulher, g&#234;nero textual</chaves>
+  <codigo>1119-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UNICENTRO</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>LINGUA PORTUGUESA</disciplina>
+  <autor>ADRIANA CRISTINA BERNARDIM</autor>
+  <titulo>L&#205;NGUA PORTUGUESA E ENSINO: a an&#225;lise ling&#252;&#237;stica como pr&#225;tica discursiva em turmas de EJA</titulo>
+  <chaves> An&#225;lise Ling&#252;&#237;stica;Encaminhamento Metodol&#243;gico.</chaves>
+  <codigo>1119-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UNICENTRO</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>LINGUA PORTUGUESA</disciplina>
+  <autor>ADRIANA REGINA FELTRIN RAUEN</autor>
+  <titulo>Pr&#225;ticas Pedag&#243;gicas que estimulam a Leitura</titulo>
+  <chaves>Pr&#225;ticas pedag&#243;gicas; Leitura</chaves>
+  <codigo>390-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UTFPR</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>LINGUA PORTUGUESA</disciplina>
+  <autor>ADRIANA REGINA FELTRIN RAUEN</autor>
+  <titulo>Pr&#225;ticas Pedag&#243;gicas que estimulam a Leitura</titulo>
+  <chaves>Leitura; Pr&#225;ticas Pedag&#243;gicas; Intertextualidade; Cidadania.</chaves>
+  <codigo>390-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UTFPR</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>LINGUA PORTUGUESA</disciplina>
+  <autor>ALICE ATSUKO MATSUDA </autor>
+  <titulo>A efic&#225;cia do conto e da cr&#244;nica para despertar o gosto pela leitura</titulo>
+  <chaves>leitura; conto; an&#225;lise interpretativa</chaves>
+  <codigo>1010-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UEL</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>LINGUA PORTUGUESA</disciplina>
+  <autor>ALICE ATSUKO MATSUDA </autor>
+  <titulo>Forma&#231;&#227;o do leitor: problemas e desafios</titulo>
+  <chaves>Leitura; Forma&#231;&#227;o de leitor; Teoria da Est&#233;tica da Recep&#231;&#227;o; M&#233;todo Recepcional; Experi&#234;ncia de leitura.</chaves>
+  <codigo>1010-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UEL</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>LINGUA PORTUGUESA</disciplina>
+  <autor>AMARILDO BRITZIUS REDIES</autor>
+  <titulo>Os m&#250;ltiplos barrocos</titulo>
+  <chaves>Barroco; Greg&#243;rio de Matos; Ensino de literatura</chaves>
+  <codigo>176-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UNIOESTE</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>LINGUA PORTUGUESA</disciplina>
+  <autor>AMARILDO BRITZIUS REDIES</autor>
+  <titulo>Delimita&#231;&#227;o est&#233;tica e hist&#243;rica do barroco</titulo>
+  <chaves>Barroco. Maneirismo. Barroco brasileiro.</chaves>
+  <codigo>176-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UNIOESTE</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>MATEM&#193;TICA</disciplina>
+  <autor>ADRIANA STRASSACAPPA </autor>
+  <titulo>Resolu&#231;&#227;o de Problemas: um relato de experi&#234;ncia na 6&#170; s&#233;rie</titulo>
+  <chaves>Educa&#231;&#227;o Matem&#225;tica; Resolu&#231;&#227;o de Problemas; Proposta de Ensino; Racioc&#237;nio Combinat&#243;rio. </chaves>
+  <codigo>75-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UEL</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>MATEM&#193;TICA</disciplina>
+  <autor>ADRIANA STRASSACAPPA </autor>
+  <titulo>A Resolu&#231;&#227;o de Problemas no ensino de Fra&#231;&#245;es</titulo>
+  <chaves>Educa&#231;&#227;o Matem&#225;tica; Resolu&#231;&#227;o de Problemas; Ensino de Fra&#231;&#245;es. </chaves>
+  <codigo>75-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UEL</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>MATEM&#193;TICA</disciplina>
+  <autor>ADRIANO STAIGER BRESSAN </autor>
+  <titulo>Construindo Fun&#231;&#245;es polinomiais</titulo>
+  <chaves>Educa&#231;&#227;o Matem&#225;tica. Modelagem Matem&#225;tica. Fun&#231;&#245;es</chaves>
+  <codigo>109-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UEL</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>MATEM&#193;TICA</disciplina>
+  <autor>ADRIANO STAIGER BRESSAN </autor>
+  <titulo>MODELA&#199;&#195;O MATEM&#193;TICA: FUN&#199;&#213;ES APLICADAS AO ENSINO M&#201;DIO</titulo>
+  <chaves>Educa&#231;&#227;o Matem&#225;tica. Modelagem Matem&#225;tica. Ensino de Matem&#225;tica.</chaves>
+  <codigo>109-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UEL</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>MATEM&#193;TICA</disciplina>
+  <autor>ALDENIR VENTURA </autor>
+  <titulo>O ENSINO DA GEOMETRIA COM O USO DAS EMBALAGENS</titulo>
+  <chaves>Geometria. Formas. Situa&#231;&#245;es problemas</chaves>
+  <codigo>899-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UNIOESTE</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>MATEM&#193;TICA</disciplina>
+  <autor>ALDENIR VENTURA </autor>
+  <titulo>O ENSINO DA GEOMETRIA COM O USO DAS EMBALAGENS</titulo>
+  <chaves>Embalagens. Visualiza&#231;&#227;o. S&#243;lidos geom&#233;tricos</chaves>
+  <codigo>899-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UNIOESTE</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>MATEM&#193;TICA</disciplina>
+  <autor>ALTAIR BALDISSERA</autor>
+  <titulo>A GEOMETRIA TRABALHADA A PARTIR DA CONSTRU&#199;&#195;O DE FIGURAS E S&#211;LIDOS GEOM&#201;TRICOS</titulo>
+  <chaves>S&#243;lidos Geom&#233;tricos; Geometria</chaves>
+  <codigo>832-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UNIOESTE</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>MATEM&#193;TICA</disciplina>
+  <autor>ALTAIR BALDISSERA</autor>
+  <titulo>A GEOMETRIA TRABALHADA A PARTIR DA CONSTRU&#199;&#195;O DE FIGURAS E S&#211;LIDOS GEOM&#201;TRICOS</titulo>
+  <chaves>Confec&#231;&#227;o de S&#243;lidos; Geometria Espacial.</chaves>
+  <codigo>832-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UNIOESTE</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>MATEM&#193;TICA</disciplina>
+  <autor>ANA GRAZIELE CARNEIRO</autor>
+  <titulo>Cultura Matem&#225;tica</titulo>
+  <chaves>S&#211;LIDOS; CULTURA MATEM&#193;TICA; ORIGAMI</chaves>
+  <codigo>494-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UFPR</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>MATEM&#193;TICA</disciplina>
+  <autor>ANA GRAZIELE CARNEIRO</autor>
+  <titulo>O USO TECNOL&#211;GICO DA INFORM&#193;TICA EDUCATIVA COMO AUX&#205;LIO PARA A INCLUS&#195;O EDUCACIONAL DE ESTUDANTES COM DISMOTRIA CEREBRAL ONTOGEN&#201;TICA NO PROCESSO DE APRENDIZAGEM DA GEOMETRIA PLANA  </titulo>
+  <chaves>geometria plana; tecnologia educacional; paralisia cerebral</chaves>
+  <codigo>494-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UFPR</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>PEDAGOGIA</disciplina>
+  <autor>ADELAIDE DE FATIMA STENCEL </autor>
+  <titulo>O PROCESSO PEDAG&#211;GICO NA AVALIA&#199;&#195;O DA APRENDIZAGEM</titulo>
+  <chaves>Avalia&#231;&#227;o da aprendizagem. Pr&#225;tica pedag&#243;gica. Interven&#231;&#227;o</chaves>
+  <codigo>681-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UEL</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>PEDAGOGIA</disciplina>
+  <autor>ADELAIDE DE FATIMA STENCEL </autor>
+  <titulo>A PR&#193;TICA AVALIATIVA COMO PR&#193;TICA PEDAG&#211;GICA: TRAJET&#211;RIA EM BUSCA DE MUDAN&#199;AS</titulo>
+  <chaves>Avalia&#231;&#227;o da aprendizagem. Pr&#225;tica pedag&#243;gica. Interven&#231;&#227;o</chaves>
+  <codigo>681-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UEL</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>PEDAGOGIA</disciplina>
+  <autor>ADIEL TEIXEIRA DO NASCIMENTO </autor>
+  <titulo>A educa&#231;&#227;o do campo na perspectiva da pedagogia da altern&#226;ncia</titulo>
+  <chaves>educa&#231;&#227;o do campo; teoria; pr&#225;tica;altern&#226;ncia</chaves>
+  <codigo>1045-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UNICENTRO</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>PEDAGOGIA</disciplina>
+  <autor>ADIEL TEIXEIRA DO NASCIMENTO </autor>
+  <titulo>A CONTRIBUI&#199;&#195;O DAS CASAS FAMILIARES RURAIS NA EDUCA&#199;&#195;O DO CAMPO: A experi&#234;ncia de Cand&#243;i.</titulo>
+  <chaves>pol&#237;ticas p&#250;blicas; altern&#226;ncia; educa&#231;&#227;o do campo</chaves>
+  <codigo>1045-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UNICENTRO</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>PEDAGOGIA</disciplina>
+  <autor>ADILES JUSVIACK </autor>
+  <titulo>Disciplina na Escola</titulo>
+  <chaves>disciplina, indisciplina</chaves>
+  <codigo>511-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UFPR</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>PEDAGOGIA</disciplina>
+  <autor>ADILES JUSVIACK </autor>
+  <titulo>Focos e enfoques da indisciplina</titulo>
+  <chaves>disciplina, indisciplina</chaves>
+  <codigo>511-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UFPR</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>PEDAGOGIA</disciplina>
+  <autor>ADLA MEHANNA</autor>
+  <titulo>Desenvolvimento dos valores morais, &#233;ticos e cient&#237;ficos na educa&#231;&#227;o</titulo>
+  <chaves>&#233;tica, valores, moralidade</chaves>
+  <codigo>512-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UFPR</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>PEDAGOGIA</disciplina>
+  <autor>ADLA MEHANNA</autor>
+  <titulo>Desenvolvimento dos valores morais, &#233;ticos e cient&#237;ficos na educa&#231;&#227;o</titulo>
+  <chaves>&#201;tica. Valores. Moral.</chaves>
+  <codigo>512-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UFPR</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>PEDAGOGIA</disciplina>
+  <autor>ADRIANE VALERIA KISZKA SCHEFFER </autor>
+  <titulo>Por uma Educa&#231;&#227;o Pela N&#227;o-Viol&#234;ncia</titulo>
+  <chaves>disciplina, indisciplina</chaves>
+  <codigo>31-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UEPG</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>PEDAGOGIA</disciplina>
+  <autor>ADRIANE VALERIA KISZKA SCHEFFER </autor>
+  <titulo>Por uma Educa&#231;&#227;o Pela N&#227;o-Viol&#234;ncia</titulo>
+  <chaves>viol&#234;ncia; indisciplina; educa&#231;&#227;o para a paz</chaves>
+  <codigo>31-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UEPG</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>QUIMICA</disciplina>
+  <autor>CELIA CARDOSO DE MELLO </autor>
+  <titulo>Propostas para abordagem dos fen&#244;menos de &#243;xido - redu&#231;&#227;o em sala de aula</titulo>
+  <chaves>movimento de el&#233;trons, fen&#244;menos, rea&#231;&#245;es</chaves>
+  <codigo>969-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UFPR</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>QUIMICA</disciplina>
+  <autor>CELIA CARDOSO DE MELLO </autor>
+  <titulo>Investigando a Experimenta&#231;&#227;o de Qu&#237;mica no Ensino M&#233;dio</titulo>
+  <chaves>experimenta&#231;&#227;o; Qu&#237;mica;Grupo de Trabalho em Rede; Forma&#231;&#227;o Inicial</chaves>
+  <codigo>969-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UFPR</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>QUIMICA</disciplina>
+  <autor>INES CRISTINA BIAZON NARDIN</autor>
+  <titulo>Brincando aprende-se qu&#237;mica</titulo>
+  <chaves>jogos; atividade l&#250;dica; brincando</chaves>
+  <codigo>688-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UEL</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>QUIMICA</disciplina>
+  <autor>INES CRISTINA BIAZON NARDIN</autor>
+  <titulo>Braincando aprende-se qu&#237;mica</titulo>
+  <chaves>atividade l&#250;dica qu&#237;mica diferenciada jogos did&#225;ticos</chaves>
+  <codigo>688-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UEL</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>QUIMICA</disciplina>
+  <autor>JOSE TIMOTEO DE GOUVEA</autor>
+  <titulo>O uso de solventes org&#226;nicos nas aulas de Qu&#237;mica - cuidados x riscos</titulo>
+  <chaves>solventes; inflam&#225;veis; t&#243;xico; simbologia; seguran&#231;a.</chaves>
+  <codigo>115-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UEL</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>QUIMICA</disciplina>
+  <autor>JOSE TIMOTEO DE GOUVEA</autor>
+  <titulo>A aula feita em v&#237;deo, o v&#237;deo feito em aula: uma transforma&#231;&#227;o no ensino de Qu&#237;mica</titulo>
+  <chaves>Palavras Chaves: ensino de qu&#237;mica; seguran&#231;a; aulas pr&#225;ticas; express&#227;o;</chaves>
+  <codigo>115-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UEL</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>QUIMICA</disciplina>
+  <autor>JOSE VALDEMIR GIMENES ALVES </autor>
+  <titulo>Qual a rela&#231;&#227;o das visitas do Presidente Lula a outros pa&#237;ses com o desaparecimento dos recifes de corais?</titulo>
+  <chaves>G&#193;S CARBONICO, POLUI&#199;&#195;O, QUIMICA</chaves>
+  <codigo>71-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UEPG</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>QUIMICA</disciplina>
+  <autor>JOSE VALDEMIR GIMENES ALVES </autor>
+  <titulo>ENSINO DE CONCEITOS QU&#205;MICOS BASEADOS EM UMA ABORDAGEM TEM&#193;TICA LOCAL: ADUBA&#199;&#195;O ORG&#194;NICA</titulo>
+  <chaves>CONCILIAR, QUIMICA, SABERES LOCAIS</chaves>
+  <codigo>71-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UEPG</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>QUIMICA</disciplina>
+  <autor>MARCIA REGINA DA SILVA </autor>
+  <titulo>Investigando as Aplica&#231;&#245;es da Radioatividade na Sociedade</titulo>
+  <chaves>radioatividade; energia nuclear; rejeitos radioativos; irradia&#231;&#227;o</chaves>
+  <codigo>970-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UFPR</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>QUIMICA</disciplina>
+  <autor>MARCIA REGINA DA SILVA </autor>
+  <titulo>Forma&#231;&#227;o Continuada dos Professores de Qu&#237;mica: dilemas e desafios</titulo>
+  <chaves>Forma&#231;&#227;o continuada; Atualiza&#231;&#227;o dos professores; Ensino de Qu&#237;mica; Pr&#225;tica pedag&#243;gica.</chaves>
+  <codigo>970-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UFPR</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>SOCIOLOGIA</disciplina>
+  <autor>EDNA DE GASPARI GUIZELINI</autor>
+  <titulo>Brasil Sociedade autorit&#225;ria</titulo>
+  <chaves> Hierarquia. Autoritarismo, Viol&#234;ncia, Favor, Cidadania</chaves>
+  <codigo>1157-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UEL</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>SOCIOLOGIA</disciplina>
+  <autor>EDNA DE GASPARI GUIZELINI</autor>
+  <titulo>Cidadania &#224; brasileira ou cultura pol&#237;tica brasileira</titulo>
+  <chaves> Hierarquia. Autoritarismo, Viol&#234;ncia, Favor, Cidadania</chaves>
+  <codigo>1157-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UEL</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>SOCIOLOGIA</disciplina>
+  <autor>MARIANA APARECIDA DOMINGUES DE MACEDO </autor>
+  <titulo>Cidadania voc&#234; exerce a sua?</titulo>
+  <chaves>Cidadania - Escola - Educa&#231;&#227;o Cidad&#227; - Alteridade</chaves>
+  <codigo>69-2</codigo>
+  <tipo>MATERIAL DIDATICO</tipo>
+  <ies>UEPG</ies>
+ </cadastro>
+ <cadastro>
+  <disciplina>SOCIOLOGIA</disciplina>
+  <autor>MARIANA APARECIDA DOMINGUES DE MACEDO </autor>
+  <titulo>A Escola como espa&#231;o de cidadania: entre o discurso e a pr&#225;tica</titulo>
+  <chaves>Cidadania - Escola - Educa&#231;&#227;o Cidad&#227; - Alteridade</chaves>
+  <codigo>69-4</codigo>
+  <tipo>ARTIGO</tipo>
+  <ies>UEPG</ies>
+ </cadastro>
+</acervo>
+
+<!--
+###########################################################
+### Última Modificação - Novembro de 2009 - CURITIBA-PR ###
+###########################################################
+                                                         -->
+

@@ -1,0 +1,84 @@
+body
+{
+	font-family: Verdana, Arial, Helvetica, Sans-Serif;
+	font-size: 11px;
+	margin: 0px;
+}
+
+#header
+{
+	background-color: #FFCC00;
+	width: 100%;
+	height: 40px;
+}
+
+#busca
+{
+	position: absolute;
+	top: 5px;
+	right: 25px;
+}
+
+#texto_busca
+{
+	border: 1px solid black;
+}
+
+#botao_buscar
+{
+	color: white;
+	background-color: black;
+	border: 1px solid black;
+}
+
+#disciplina, #instituicao, #material
+{
+	position: absolute;
+	top: 5px;
+	cursor: pointer;
+}
+
+#disciplina
+{
+	left: 220px;
+}
+
+#material
+{
+	left: 420px;
+}
+
+#instituicao
+{
+	left: 20px;
+}
+
+#instituicao_lista, #disciplina_lista, #material_lista
+{
+	background-color: #EEEEEE;
+	border: 1px solid #CCCCCC;
+	visibility: hidden;
+}
+
+#instituicao_botao, #disciplina_botao, #material_botao
+{
+	color: white;
+	background-color: #FF0000;
+	border: 1px solid black;
+	width: 180px;
+	height: 20px;
+	padding: 3px;
+}
+
+#resultado 
+{
+	margin: 4px;
+	border: 1px solid black;
+	min-height: 300px;
+	padding: 10px;
+}
+
+ul 
+{
+	list-style: square;
+}
