@@ -1,17 +1,19 @@
 <html>
 <head>
 	<title>BUSCA DVD</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
 	<script src="rotinas.js" type="text/javascript"></script> 
 	<link rel="stylesheet" href="main.css" type="text/css" charset="utf-8" />
 </head>
 <body>
+<div id="resultado">
+</div>
 <div id="header">
-
 	<form name="form_busca_dvd" action="">
 	<div id="busca">
 		<input type="text" id="texto_busca" name="busca" /><input type="button" value="buscar" id="busca_botao" />
 	</div>
-
 	<div id="instituicao">
 		<div id="instituicao_botao">Instituição</div>
 		<div id="instituicao_lista">
@@ -51,18 +53,11 @@
 	<div id="material">
 		<div id="material_botao">Material</div>
 		<div id="material_lista">
-		<input name="material" id="didatico" value="didatico" type="radio">Material Did&#225;tico</input><br/>
-		<input name="material" id="artigo" value="artigo" type="radio">Artigo</input><br/>
+		<input name="materiais" id="didatico" value="MATERIAL DIDATICO" type="checkbox">Material Did&#225;tico</input><br/>
+		<input name="materiais" id="artigo" value="ARTIGO" type="checkbox">Artigo</input><br/>
 		</div>
 	</div>
 	</form>
 </div>
-
-
-
-<div id="resultado">
-</div>
-
-
 </body>
 </html>

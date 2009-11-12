@@ -13,19 +13,40 @@ window.onload = function()
 function mostar_list_instituicao()
 {
 	var instituicao_lista = document.getElementById("instituicao_lista");
-	instituicao_lista.style.visibility = 'visible';
+	if(instituicao_lista.style.visibility == 'hidden')
+	{
+		instituicao_lista.style.visibility = 'visible';
+	}
+	else
+	{
+		instituicao_lista.style.visibility = 'hidden';
+	}
 }
 
 function mostar_list_disciplina()
 {
 	var disciplina_lista = document.getElementById("disciplina_lista");
-	disciplina_lista.style.visibility = 'visible';
+	if(disciplina_lista.style.visibility == 'hidden')
+	{
+		disciplina_lista.style.visibility = 'visible';
+	}
+	else
+	{
+		disciplina_lista.style.visibility = 'hidden';
+	}
 }
 
 function mostar_list_material()
 {
 	var material_lista = document.getElementById("material_lista");
-	material_lista.style.visibility = 'visible';
+	if(material_lista.style.visibility == 'hidden')
+	{
+		material_lista.style.visibility = 'visible';
+	}
+	else
+	{
+		material_lista.style.visibility = 'hidden';
+	}
 }
 
 function ocultarListas()
@@ -68,6 +89,21 @@ function pegarDisciplinas()
 	return disciplinasSelecionadas;
 }
 
+function pegarMateriais()
+{
+	materiaisSelecionados = new Array;
+	var materiais = document.getElementsByName("materiais");
+
+	for (var i = 0; i < materiais.length; i++)
+	{
+		if(materiais[i].checked == true)
+		{
+			materiaisSelecionados.push(materiais[i].value);
+		}
+	}
+	return materiaisSelecionados;
+}
+
 function buscar()
 {
 	var xmlDoc;
@@ -80,22 +116,12 @@ function buscar()
 	var disciplinas = new Array;
 	disciplinas = pegarDisciplinas();
 
+	var materiais = new Array;
+	materiais = pegarMateriais();
+
 	var procura = document.getElementById("texto_busca").value;
 
-	var filtro_tipo = 'QUALQUER';
-	var material = document.getElementById("didatico").checked;
-	var artigo = document.getElementById("artigo").checked;
-
-	if(material)
-	{
-		filtro_tipo = "MATERIAL DIDATICO"; 
-	}
-	if(artigo) 
-	{
-		filtro_tipo = "ARTIGO"; 
-	}
-
-	carregarXml(instituicoes, disciplinas, filtro_tipo, procura);
+	carregarXml(instituicoes, disciplinas, materiais, procura);
 }
 
 function loadXMLDoc(dname)
@@ -113,7 +139,7 @@ function loadXMLDoc(dname)
 	return xhttp.responseXML;
 }
 
-function carregarXml(instituicoes, disciplinas, filtro_tipo, procura)
+function carregarXml(instituicoes, disciplinas, materiais, procura)
 {
 
 	xml=loadXMLDoc("bd.xml");
@@ -123,6 +149,7 @@ function carregarXml(instituicoes, disciplinas, filtro_tipo, procura)
 	var inst_path = "";
 	var disc_path = "";
 	var material_path = "";
+	var procura_path = "";
 
 	if(instituicoes.length > 0)
 	{
@@ -146,20 +173,33 @@ function carregarXml(instituicoes, disciplinas, filtro_tipo, procura)
 		disc_path = "[" + disc.join(" or ") + "]";
 	}
 
-	if(filtro_tipo  != "QUALQUER")
+	if(materiais.length > 0)
 	{
-		material_path = '[tipo="' + filtro_tipo + '"]';
+		var material = new Array;
+		for( var i = 0; i < materiais.length; i++)
+		{
+			material.push('tipo="' + materiais[i] + '"');
+		}
+
+		material_path = "[" + material.join(" or ") + "]";
 	}
 
-	var path = "/acervo/cadastro" + inst_path + disc_path + material_path + "/titulo";
+/*
+	if(procura != "")
+	{
+		procura_path = '[matches(titulo, "[a-zA-Z ]{1,}", "sim")]';
+	}
+*/
+	var path = "/acervo/cadastro" + inst_path + disc_path + material_path + procura_path + "/titulo";
+
+	alert(path);
 
 	var buffer = "";
 
-
-alert(path);
-
-
 	buffer = path;
+	buffer += "<br/><br/>\n";
+
+	buffer += procura
 	buffer += "<br/><br/>\n";
 
 	//path="/acervo/cadastro[ies='UTFPR']/titulo|";
