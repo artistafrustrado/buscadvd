@@ -5,6 +5,7 @@ body
 	margin: 0px;
 	padding: 0px;
 	background-color: #000000;
+	height: 0px;;
 }
 
 #header
@@ -30,9 +31,9 @@ body
 
 #busca_botao
 {
-	color: white;
-	background-color: black;
-	border: 1px solid #CCCCCC;
+	color: #6FA142;
+	background-color: #C2D1BC;
+	border: 1px solid #6FA142;
 }
 
 #disciplina, #instituicao, #material
@@ -66,35 +67,80 @@ body
 
 #instituicao_botao, #disciplina_botao, #material_botao
 {
-	color: white;
+	color: #6FA142;
 	font-weight: bold;
 	background-color: #000000;
-	border: 1px solid #CCCCCC;
+	background-image: url(imagens/bot_disciplina.jpg);
+	border: 1px solid #6FA142;
 	width: 180px;
 /* 	height: 20px; */
 	padding: 3px;
 }
 
-#resultado 
+#resultados
 {
 	position: fixed;
-	margin: 4px;
+	margin: 0px;
 	border: 1px solid black;
-	min-height: 300px;
-	padding: 10px;
-	padding-left: 20px;
-	top: 30px;
+	height: 100%;
+	padding: 0px;
+	padding-left: 0px;
+	top: 35px;
 	bottom: 10px;
-	left: 10px;
-	right: 10px;
+	left: 0px;
+	right: 0px;
 	overflow: auto;
 	 overflow-y: auto;
 	 overflow-x: hidden;
-	background-color: white;
+	background-color: #C2D1BC;
 }
 
-li 
+#direita 
 {
-	
-	list-style: square;
+	width: 60%;
+        height: 100%;
+        float: right;
+        position: static;
+	top: 6%;
+	background-image: url(imagens/fundo.png);
+	background-repeat: repeat-y;
+	background-position: right;
+	padding: 0px;
+	overflow: auto;
+	overflow-y: auto;
+	overflow-x: hidden;
 }
+
+	a:link {color: black;}
+	a:hover {color: green;}
+	a:visited {color: red;}
+	tr td {border: 1px solid #6FA142;}
+
+#esquerda
+{
+	top: 2%;
+        width: 75%;
+        height: 90%;
+        float: left;
+	position: absolute;
+	overflow: auto;
+	overflow-y: auto;
+	overflow-x: hidden;
+        background-color: #C2D1BC;
+}
+#tabela
+{
+	font-family: Verdana, Arial, Helvetica, Sans-Serif;
+	font-size: 15px;
+	position: relative;
+	margin-top: 4%;
+	top: 4%;
+	color: black;
+	font-color: black;
+	background-color: #C2D1BC;
+	width: 95%;
+	height: 95%;
+}
+
+
+

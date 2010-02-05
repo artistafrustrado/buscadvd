@@ -1,30 +1,41 @@
 <html>
 <head>
-	<title>BUSCA DVD</title>
+	<title>BUSCA DVD - Versão Beta 0.3.3</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 
 	<script src="rotinas.js" type="text/javascript"></script> 
 	<link rel="stylesheet" href="main.css" type="text/css" charset="utf-8" />
 </head>
 <body>
-<div id="resultado">
+<div id="resultados">
+<div id="esquerda" style="display:none;">
+<table id="tabela" style="display:none;"border="1" width="82%">
+	<tr>
+		<td>Título</td>
+		<td>Autor</td>
+		<td>Disciplina</td>
+		<td>Tipo</td>
+		<td>IES</td>
+	</tr>
+</table>
+</div>
+<div id="direita">
+</div>
 </div>
 <div id="header">
 	<form name="form_busca_dvd" action="">
 	<div id="busca">
-		<input type="text" id="texto_busca" name="busca" /><input type="button" value="buscar" id="busca_botao" />
+		<input type="text" id="texto_busca" name="busca" /><input type="button" value="buscar" id="busca_botao" onclik="busca()"/>
 	</div>
 	<div id="instituicao">
 		<div id="instituicao_botao">Instituição</div>
 		<div id="instituicao_lista">
 		<input name="instituicoes" type="checkbox" value="UEL">UEL</input><br/>
 		<input name="instituicoes" type="checkbox" value="UEM">UEM</input><br/>
-		<input name="instituicoes" type="checkbox" value="UENP">UENP</input><br/>
 		<input name="instituicoes" type="checkbox" value="UEPG">UEPG</input><br/>
 		<input name="instituicoes" type="checkbox" value="UFPR">UFPR</input><br/>
 		<input name="instituicoes" type="checkbox" value="UNICENTRO">UNICENTRO</input><br/>
 		<input name="instituicoes" type="checkbox" value="UNIOESTE">UNIOESTE</input><br/>
-		<input name="instituicoes" type="checkbox" value="UTFPR">UTFPR</input><br/>
 		</div>
 	</div>
 	<div id="disciplina">
@@ -49,15 +60,15 @@
 		<input name="disciplinas" type="checkbox" value="SOCIOLOGIA">Sociologia</input><br/>
 		</div>
 	</div>
-
 	<div id="material">
 		<div id="material_botao">Material</div>
 		<div id="material_lista">
 		<input name="materiais" id="didatico" value="MATERIAL DIDATICO" type="checkbox">Material Did&#225;tico</input><br/>
 		<input name="materiais" id="artigo" value="ARTIGO" type="checkbox">Artigo</input><br/>
 		</div>
-	</div>
 	</form>
 </div>
+<div id="resultado" style="display:none;">
+<div>
 </body>
 </html>
